@@ -13,6 +13,7 @@ public class test extends JFrame {
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
+		System.out.println("Learn Git new Branch");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
