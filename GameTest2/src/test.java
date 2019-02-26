@@ -14,6 +14,8 @@ public class test extends JFrame {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Learn Git master Branch");
+		System.out.println("Learn Git client Branch");
+		System.out.println("Learn Git client Branch2");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
